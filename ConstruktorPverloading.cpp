@@ -20,5 +20,8 @@ mahasiswa::mahasiswa(int iNim){
     nim =iNim;//Definisi hanya NIM
 
 }
+mahasiswa::mahasiswa(string iNama){
+    nama = iNama;//Definisi hanya Nama
 
+}
 
